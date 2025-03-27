@@ -1,13 +1,12 @@
 4주차
 1교시
-<<<<<< HEAD
-conflict
-=======
+
+conflict 해결방법
+
 git 명령어
 log --oneline
 
 linux 명령어
->>>>>>>>>>>>>> 4654981231564eq4a5s1468a4sd651a5
 
 2교시 
 
