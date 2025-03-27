@@ -13,4 +13,8 @@ conflict 복습
 git 명령어
 log --oneline --graph
 
+
 3교시
+파이썬 function
+파이썬 ide상에서 conflict해결
+
